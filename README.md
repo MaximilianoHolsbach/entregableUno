@@ -1,2 +1,2 @@
 # entregableUno
-Cotizador de seguros.
+SIMULADOR DE PLAZOS FIJOS
