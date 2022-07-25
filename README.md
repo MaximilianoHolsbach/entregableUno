@@ -5,5 +5,5 @@
  <br></br>
  <h3>AVISO!!!</h3>
  <br></br>
- <P>El commit con el titulo de </p>
- 
+ <p>El commit con el titulo: "Se corrige el funcionamiento de los filtros de ingreso"</p>
+ <p>es el commit que se presenta como finalizado, es el ultimo commit.</p>
